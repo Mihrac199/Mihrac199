@@ -16,10 +16,9 @@
 
 <p align="left">
   
+<a href="https://codepen.io/mihrac199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mihrac199" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mihrac199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihrac199" height="30" width="40" /></a>
 <a href="https://instagram.com/mihrac_comart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihrac_comart" height="30" width="40" /></a>
-<a href="https://codepen.io/mihrac199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mihrac199" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mihraccomart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mihraccomart" height="30" width="40" /></a>
 
 </p>
 
