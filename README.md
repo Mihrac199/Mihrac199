@@ -1,12 +1,16 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGaFIXPYet5Xw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707149573580?e=1747872000&v=beta&t=4g3TupEOyOd9YV2EGDlw1rZO77jrlMMBZ0QWvNWwaFc)
 
+
 <h1 align="center">Mihraç Comart</h1>
-<h2 align="center">Frontend Developer</h2>
+<h3 align="center">Frontend Developer</h3>
 
 
 - 💬 Ask me about **Javascript**
 
+
 - 🌱 I’m currently learning **React**
+
+  
 
 
 <h3 align="left">Languages And Tools</h3>
