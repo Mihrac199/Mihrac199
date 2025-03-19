@@ -9,16 +9,6 @@
 - 🌱 I’m currently learning **React**
 
 
-
-<h3 align="left">Connect With Me</h3>
-
-<p align="left">
-  
-<a href="https://codepen.io/mihrac199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mihrac199" height="30" width="40" /></a>
-<a href="https://instagram.com/mihrac_comart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihrac_comart" height="30" width="40" /></a>
-
-</p>
-
 <h3 align="left">Languages And Tools</h3>
 
 <p align="left"> 
